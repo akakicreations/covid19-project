@@ -3,7 +3,7 @@
 
 ---
 
-<p>[Contribution guidelines for this project](Imagen_github.jpg)</p>
+<p><img src="https://drive.google.com/file/d/1jpfxNuvrKmzgoQOyrvuYA64LrMKacmec/view?usp=sharing" alt="enter image description here"></p>
 <h1 id="situación-actual-coronavirus-en-españa-y-en-el-mundo">Situación Actual Coronavirus en España y en el mundo</h1>
 <p>Este es un ejercicio para <strong>visualizar de un vistazo rápido los principales datos actualizados</strong> en la propagación del coronavirus en España y en el mundo, actualizados.</p>
 <h2 id="código">Código</h2>
@@ -34,7 +34,4 @@ y curados de España, Italia, Francia, Reino Unido, Estados Unidos, Alemania, Ch
 </ul>
 <p>Este es un ejercicio para practicar en mis estudios como Data Scientist, por lo que seguramente sea muy mejorable. <strong>Cualquier ayuda es bienvenida. Gracias.</strong></p>
 <p><a href="https://www.akakicreations.com">Más sobre mí.</a></p>
-# covid19-project
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDg5MzgwN119
--->
+
