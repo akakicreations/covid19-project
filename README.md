@@ -3,7 +3,7 @@
 
 ---
 
-<p>![Portada](/Imagen_github.jpg)
+<p>[Contribution guidelines for this project](Imagen_github.jpg)
 Format: ![Portada](url)</p>
 <h1 id="situación-actual-coronavirus-en-españa-y-en-el-mundo">Situación Actual Coronavirus en España y en el mundo</h1>
 <p>Este es un ejercicio para <strong>visualizar de un vistazo rápido los principales datos actualizados</strong> en la propagación del coronavirus en España y en el mundo, actualizados.</p>
