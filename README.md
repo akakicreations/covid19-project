@@ -34,4 +34,7 @@ y curados de España, Italia, Francia, Reino Unido, Estados Unidos, Alemania, Ch
 </ul>
 <p>Este es un ejercicio para practicar en mis estudios como Data Scientist, por lo que seguramente sea muy mejorable. <strong>Cualquier ayuda es bienvenida. Gracias.</strong></p>
 <p><a href="https://www.akakicreations.com">Más sobre mí.</a></p>
-
+# covid19-project
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMzMDg5MzgwN119
+-->
