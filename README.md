@@ -20,7 +20,7 @@ author: Akakicreations
 <p>Todos los archivos exportados están en el mismo repositorio, pero <strong>también están subidos online en formato .csv desde los siguientes enlaces:</strong></p>
 <ul>
 <li>
-<p><strong>Resumen de casos total en el mundo y en España:</strong> Casos confirmados, curados y fallecidos. <a href="https://www.socialdatascience.es/info/covid19_data_drive_resume.csv">ENLACE</a></p>
+<p><strong>Resumen de casos total en el mundo y en España:</strong> Casos confirmados, curados y fallecidos. <a href="https://www.socialdatascience.es/info/covid19_data_drive_resume.csv">https://www.socialdatascience.es/info/covid19_data_drive_resume.csv</a>  <a href="https://www.socialdatascience.es/info/covid19_data_drive_resume.csv">ENLACE</a></p>
 </li>
 <li>
 <p><strong>Propagación Covid-19 en España:</strong> Casos confirmados, fallecidos, curados y los nuevos casos casos en las últimas 24 horas por comunidades autónomas. <a href="https://www.socialdatascience.es/info/covid19_spain_ccaa.csv">ENLACE</a></p>
