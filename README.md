@@ -3,7 +3,7 @@ author: Akakicreations
 
 ---
 
-<p><img src="https://www.socialdatascience.es/info/Imagen_github.jpg" alt="enter image description here"></p>
+<p><img src="https://www.socialdatascience.es/info/diseno4_covid19.jpg" alt="enter image description here"></p>
 <h2 id="ver-website-con-visualización-de-datos"><a href="https://www.socialdatascience.es/situacion-actual-coronavirus-en-el-mundo-y-espana/">VER WEBSITE CON VISUALIZACIÓN DE DATOS</a></h2>
 <h1 id="situación-actual-coronavirus-en-españa-y-en-el-mundo">Situación Actual Coronavirus en España y en el mundo</h1>
 <p>Este es un ejercicio para <strong>visualizar de un vistazo rápido los principales datos actualizados</strong> en la propagación del coronavirus en España y en el mundo, actualizados.</p>
