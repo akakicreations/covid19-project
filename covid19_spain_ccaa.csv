@@ -1,20 +1,20 @@
-ccaa;Casos totales - 04/04;Fallecidos - 04/04;Hospitalizados - 04/04;Curados - 04/04;Nuevos casos (24h) - 04/04
-Andalucía;7869;426;3896;463;495
-Aragón;3078;251;1505;440;189
-Asturias;1522;76;766;190;89
-Baleares;1271;71;634;422;14
-Canarias;1564;78;632;123;74
-Cantabria;1384;68;619;99;63
-Castilla La Mancha;9324;0;313;0;0
-Castilla y León;8332;0;266;0;0
-Cataluña;24734;2508;17678;8635;1274
-Ceuta;73;1;8;2;11
-C. Valenciana;6901;0;197;0;0
-Extremadura;1979;208;453;205;86
-Galicia;5625;0;1767;0;0
-Madrid;36249;0;1474;0;0
-Melilla;79;2;37;9;9
-Murcia;1188;51;434;113;43
-Navarra;2972;171;1341;311;136
-País Vasco;8187;477;4522;3098;360
-La Rioja;2405;128;805;843;181
+Comunidades Autónomas;Confirmados;Curados;Fallecidos;Nuevos casos (24h)
+Andalucía;8301;665;470;432
+Aragón;3232;537;270;154
+Asturias;1605;216;80;83
+Baleares;1293;461;75;22
+Canarias;1622;137;80;58
+Cantabria;1441;113;68;57
+Castilla La Mancha;10031;1149;1055;707
+Castilla y León;8749;2331;847;417
+Cataluña;26032;9528;2637;1298
+Ceuta;83;2;2;10
+C. Valenciana;7184;812;613;283
+Extremadura;2047;215;218;68
+Galicia;5944;587;174;319
+Madrid;37584;16543;4941;1335
+Melilla;83;11;2;4
+Murcia;1235;130;59;47
+Navarra;3073;334;178;101
+País Vasco;8628;3405;515;441
+La Rioja;2592;904;134;187

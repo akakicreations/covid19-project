@@ -1,8 +1,8 @@
-Country/Region;Confirmados - 04/04;Curados - 04/04;Fallecidos - 04/04
-China;82543.0;76946.0;3330.0
-France;90848.0;15572.0;7574.0
-Germany;96092.0;26400.0;1444.0
-Italy;124632.0;20996.0;15362.0
-Spain;126168.0;34219.0;11947.0
-US;308850.0;14652.0;8407.0
-United Kingdom;42477.0;215.0;4320.0
+Country/Region;Confirmados;Curados;Fallecidos
+China;82602.0;77207.0;3333.0
+France;93773.0;16349.0;8093.0
+Germany;100123.0;28700.0;1584.0
+Italy;128948.0;21815.0;15887.0
+Spain;131646.0;38080.0;12641.0
+US;337072.0;17448.0;9619.0
+United Kingdom;48436.0;229.0;4943.0
