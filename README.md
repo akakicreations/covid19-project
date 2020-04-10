@@ -12,11 +12,11 @@ author: Akakicreations
 <h2 id="visualización">Visualización</h2>
 <p>Los gráficos están creados directamente desde Datawrapper y <strong>pueden verse en <a href="https://www.socialdatascience.es/situacion-actual-coronavirus-en-el-mundo-y-espana/">esta web.</a> que está en formato responsive para ver fácilmente en móviles.</strong></p>
 <h2 id="actualización">Actualización</h2>
-<p>Todos los días antes de las 13:00h</p>
+<p>Todos los días antes de las 14:00h</p>
 <h2 id="datasets-de-terceros">Datasets de terceros</h2>
 <ul>
 <li><strong>Para los datos internacionales:</strong> Se han utilizado los datasets oficiales de la Universidad de Johns Hopkins y que están en un submódulo en este mismo repositorio.</li>
-<li><strong>Para los datos de España:</strong> Se utilizan los informes oficiales del Ministerio de Sanidad, y agradezco a Víctor Vicente, parte del código que he utilizado de su exploración en <a href="https://github.com/victorvicpal/COVID19_es">Github.</a></li>
+<li><strong>Para los datos de España:</strong> Se utilizan los informes oficiales del Ministerio de Sanidad y los datos de Datadista. Agradezco a Víctor Vicente, parte del código que he utilizado de su exploración en <a href="https://github.com/victorvicpal/COVID19_es">Github.</a></li>
 </ul>
 <h2 id="archivos-en-csv">Archivos en CSV</h2>
 <p>Todos los archivos exportados están en el mismo repositorio, pero <strong>también están subidos online en formato .csv desde los siguientes enlaces:</strong></p>
@@ -40,7 +40,7 @@ author: Akakicreations
 <p><strong>Progreso casos confirmados en España:</strong> por Comunidades Autónomas desde el 1 Marzo 2020. &gt; <em>covid19_spain_ccaa_evolution2.csv</em></p>
 </li>
 <li>
-<p><strong>Datos por grupos de Edad:</strong> General, en mujeres y en hombres &gt; <strong><em>covid19_spain_ccaa_ages_general.csv</em>, <em>covid19_spain_ccaa_ages_mujeres.csv</em>, <em>covid19_spain_ccaa_ages_hombres.csv</em></strong></p>
+<p><strong>Datos por grupos de Edad:</strong> General, en mujeres y en hombres &gt; <strong><em>covid19_spain_ccaa_ages_ambos.csv</em>, <em>covid19_spain_ccaa_ages_mujeres.csv</em>, <em>covid19_spain_ccaa_ages_hombres.csv</em></strong></p>
 </li>
 <li>
 <p><strong>Casos confirmados por países (tablas individuales):</strong> España, Italia, Francia, Reino Unido, Estados Unidos, Alemania, China, Corea del Sur, Noruega e Irán. &gt; <em><strong>data_COUNTRY.csv</strong></em></p>
